@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi, my name is Dana! 👋
 
 # 💫 About Me:
 I'm a Senior Computer Science student at North Carolina A&T!
